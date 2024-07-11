@@ -126,3 +126,62 @@ margin-top: 50px;
 }
   
    
+
+.title-1{
+    text-align: center;
+    font-size: 32px;
+}
+.title-2{
+    text-align: center;
+
+}
+
+.skills-container{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+ 
+}
+
+
+.main-99{
+    margin: 70px ;
+}
+
+.skills-container{
+    margin-top: 60px;
+    padding-top: 40px;
+    
+
+  
+   
+}
+.skill-1{
+    background-color: rgba(255, 76, 30, 0.05);
+}
+.skill-2{
+ background-color: rgba(0, 76, 232, 0.05);
+}
+.skill-3{
+    background-color: rgba(255, 223, 0, 0.05);
+}
+
+.main-999{
+
+    text-align: center;
+    background-image: url('../assets/handshake.jpg');
+}
+   
+
+.hade-000{
+    font-size: 50px;
+}
+.main-footer{
+    display: flex;
+   
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;}
+.page{
+    font-size: 20px ;
+}
